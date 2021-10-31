@@ -1,2 +1,3 @@
-1. To run, use the file: agent.py
-2. The effects can be seen after 50-60 training trials
+1. Activate conda 
+2. To run, use the file: agent.py
+3. The effects can be seen after 50-60 training trials
